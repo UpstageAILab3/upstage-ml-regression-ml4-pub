@@ -1,12 +1,12 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/D1pZhJxu)
-# Title (Please modify the title)
+# House Price Prediction | 아파트 실거래가 예측
 
 ## Team
 
-| ![박패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![최패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![오패캠](https://avatars.githubusercontent.com/u/156163982?v=4) |
+| ![안재영](https://avatars.githubusercontent.com/u/104719742?v=4) | ![박주연](https://avatars.githubusercontent.com/u/164493549?v=4) | ![이아윤](https://avatars.githubusercontent.com/u/118864266?v=4) | ![성명기](https://avatars.githubusercontent.com/u/104310191?v=4) | ![서혜교](https://avatars.githubusercontent.com/u/86095630?v=4) |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
-|            [박패캠](https://github.com/UpstageAILab)             |            [이패캠](https://github.com/UpstageAILab)             |            [최패캠](https://github.com/UpstageAILab)             |            [김패캠](https://github.com/UpstageAILab)             |            [오패캠](https://github.com/UpstageAILab)             |
-|                            팀장, 담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |
+|            [안재영](https://github.com/AJY3124)             |          [박주연](https://github.com/Lucypothesis)               |            [이아윤](https://github.com/Laycode00)             |            [성명기](https://github.com/SUNGMYEONGGI)             |            [서혜교](https://github.com/andWHISKEY)             |
+|   팀장  | 팀원 | 팀원 | 팀원 | 팀원 |
 
 ## 1. Competiton Info
 
@@ -16,8 +16,7 @@
 
 ### Timeline
 
-- ex) January 10, 2024 - Start Date
-- ex) February 10, 2024 - Final submission deadline
+- _2024.07.08 ~ 2024.07.22_
 
 ### Evaluation
 
