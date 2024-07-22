@@ -91,38 +91,23 @@ UPSTAGE-ML-REGRESSION-ML4
 - 기초생활환경, 교육환경, 문화 및 상권, 합계출산율, 경제지표 등 외부 데이터
 
 ### EDA
-<img src="/Users/seongmyeong-gi/Desktop/upstage-ml-regression-ml4/docs/img/img1.png" title="EDA" style="zoom:60%;" />
-<img src="/Users/seongmyeong-gi/Desktop/upstage-ml-regression-ml4/docs/img/img2.png" title="EDA" style="zoom:60%;" />
-<img src="/Users/seongmyeong-gi/Desktop/upstage-ml-regression-ml4/docs/img/img3.png" title="EDA" style="zoom:60%;" />
+<img src="https://github.com/SUNGMYEONGGI/image/blob/main/upml3_img1.png?raw=true" style="zoom:60%;" />
+
+<img src="https://github.com/SUNGMYEONGGI/image/blob/main/upml3_img2.png?raw=true" style="zoom:60%;" />
+
+<img src="https://github.com/SUNGMYEONGGI/image/blob/main/upml3_img3.png?raw=true" style="zoom:60%;" />
 
 ## 4. Modeling
-
-### Model descrition
-
-- _Write model information and why your select this model_
-
-### Modeling Process
-
-- _Write model train and test process with capture_
+<img src="https://github.com/SUNGMYEONGGI/image/blob/main/upml3_img6.png?raw=true" style="zoom:60%;" />
 
 ## 5. Result
 
 ### Leader Board
 #### Public Leader Board
-<img src="/Users/seongmyeong-gi/Desktop/upstage-ml-regression-ml4/docs/img/img4.png" title="Leader Board" style="zoom:60%;" />
+<img src="https://github.com/SUNGMYEONGGI/image/blob/main/upml3_img4.png?raw=true" title="Leader Board" style="zoom:60%;" />
+
 #### Private Leader Board
-<img src="/Users/seongmyeong-gi/Desktop/upstage-ml-regression-ml4/docs/img/img5.png" title="Leader Board" style="zoom:60%;" />
+<img src="https://github.com/SUNGMYEONGGI/image/blob/main/upml3_img5.png?raw=true" title="Leader Board" style="zoom:60%;" />
 
 ### Presentation
-
-- _Insert your presentaion file(pdf) link_
-
-## etc
-
-### Meeting Log
-
-- _Insert your meeting log link like Notion or Google Docs_
-
-### Reference
-
-- _Insert related reference_
+[발표자료](/Users/seongmyeong-gi/Desktop/upstage-ml-regression-ml4/docs/House Price Prediction_4조.pdf)
