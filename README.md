@@ -110,4 +110,4 @@ UPSTAGE-ML-REGRESSION-ML4
 <img src="https://github.com/SUNGMYEONGGI/image/blob/main/upml3_img5.png?raw=true" title="Leader Board" style="zoom:60%;" />
 
 ### Presentation
-[발표자료](https://github.com/UpstageAILab3/upstage-ml-regression-ml4/blob/main/docs/House%20Price%20Prediction_4%EC%A1%B0.pdf)
+[발표자료]([https://github.com/UpstageAILab3/upstage-ml-regression-ml4/blob/main/docs/House%20Price%20Prediction_4%EC%A1%B0.pdf](https://drive.google.com/file/d/1upb5lz79ggGwjsFPetJ32ytywCQmXwDq/view?usp=sharing))
